@@ -1,6 +1,4 @@
-Sure, here's a README file for your project:
 
----
 
 # Designing and Creating a Database for Online Events
 
